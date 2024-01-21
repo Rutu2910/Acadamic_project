@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509022622617",
+    "project_id": "flutterauth-1ed66",
+    "storage_bucket": "flutterauth-1ed66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509022622617:android:ccf2577622e1b359b27908",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fb_auth_emailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509022622617-tde3gk44mh7difjrf3uv4b6vreuplpuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfFeoSgZlFSMXIHtLsjOM95Z6XzXTiXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509022622617-tde3gk44mh7difjrf3uv4b6vreuplpuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
